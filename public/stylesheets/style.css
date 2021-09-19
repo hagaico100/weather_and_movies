@@ -1,0 +1,38 @@
+#body {
+  padding: 50px;
+  text-align: center;
+  background-color: rgb(102, 217, 238);
+}
+p{
+  font-size: 25px;
+}
+.up{
+  text-align: center;
+}
+
+#input{
+  text-align: center; 
+
+}
+
+#label {
+  text-align: center; 
+  line-height: 30px;
+  color: white;
+}
+
+#temp{
+  font-size: 70px;
+  color: #ecfc0f;
+
+}
+#temp:before {
+  content: ' \00B0';}
+
+#city{
+  font-size: 30px;
+}
+#cityUser{
+  font-size: 45px;
+}
+
